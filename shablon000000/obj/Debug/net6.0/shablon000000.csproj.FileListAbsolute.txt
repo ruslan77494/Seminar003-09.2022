@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\bin\Debug\net6.0\shablon000000.exe
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\bin\Debug\net6.0\shablon000000.deps.json
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\bin\Debug\net6.0\shablon000000.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\bin\Debug\net6.0\shablon000000.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\bin\Debug\net6.0\shablon000000.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\refint\shablon000000.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\shablon000000.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\shablon000000\obj\Debug\net6.0\ref\shablon000000.dll
