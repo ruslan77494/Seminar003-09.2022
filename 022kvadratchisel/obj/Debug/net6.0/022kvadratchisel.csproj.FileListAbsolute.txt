@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\bin\Debug\net6.0\022kvadratchisel.exe
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\bin\Debug\net6.0\022kvadratchisel.deps.json
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\bin\Debug\net6.0\022kvadratchisel.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\bin\Debug\net6.0\022kvadratchisel.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\bin\Debug\net6.0\022kvadratchisel.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\refint\022kvadratchisel.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\022kvadratchisel.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\022kvadratchisel\obj\Debug\net6.0\ref\022kvadratchisel.dll
