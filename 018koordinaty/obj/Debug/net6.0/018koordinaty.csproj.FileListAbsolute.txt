@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\bin\Debug\net6.0\018koordinaty.exe
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\bin\Debug\net6.0\018koordinaty.deps.json
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\bin\Debug\net6.0\018koordinaty.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\bin\Debug\net6.0\018koordinaty.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\bin\Debug\net6.0\018koordinaty.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\refint\018koordinaty.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\018koordinaty.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\018koordinaty\obj\Debug\net6.0\ref\018koordinaty.dll
