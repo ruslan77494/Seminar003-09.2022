@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Seminar3 09.2022\020\bin\Debug\net6.0\020.exe
+C:\Users\PC\Desktop\Seminar3 09.2022\020\bin\Debug\net6.0\020.deps.json
+C:\Users\PC\Desktop\Seminar3 09.2022\020\bin\Debug\net6.0\020.runtimeconfig.json
+C:\Users\PC\Desktop\Seminar3 09.2022\020\bin\Debug\net6.0\020.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\020\bin\Debug\net6.0\020.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.AssemblyInfo.cs
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\refint\020.dll
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.pdb
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\020.genruntimeconfig.cache
+C:\Users\PC\Desktop\Seminar3 09.2022\020\obj\Debug\net6.0\ref\020.dll
